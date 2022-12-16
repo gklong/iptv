@@ -12,4 +12,5 @@ https://ljscq.bmcx.com/
 # 电子节目单：
 http://epg.51zmt.top:8000/e.xml
 
-*：可上传文件生成带有节目单的m3u文件
+*：可上传文件生成带有节目单的m3u文件：
+http://epg.51zmt.top:8000
