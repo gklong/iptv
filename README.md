@@ -1,6 +1,8 @@
 # iptv
-kodi程序下载地址：
-https://kodi.tv
+
+可解析该资源文件即可（m3u8格式。软件如Android端IPTV pro）。此处推荐kodi。
+
+kodi程序下载地址：https://kodi.tv
 
 直播源检测软件：IPTV Checker
 
