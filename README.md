@@ -26,3 +26,14 @@ http://epg.51zmt.top:8000
 39.135.138.60:18890
 
 39.134.115.163:8080
+
+
+# 各地区github文本地址（需拼接后续网址）：
+
+国内节点（会出问题，能解决可引用）：https://raw.githubusercontent.com/
+
+香港节点：https://raw.iqiq.io/
+
+新加坡节点：https://raw.kgithub.com/
+
+以本资源为例：https://raw.iqiq.io/gklong/iptv/main/iptv.m3u8
